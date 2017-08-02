@@ -59,9 +59,12 @@ int[] numbers = new int[10];
 
 ### Project Management Terminology
 * Functional Requirements: "What the software should do"
+  * Look for 'action' words
 * Non-Functional Requirement: "How the software should feel like"
+  * Will not have action words
 * Constraints: "Without this, software projet would FAIL"
-* Specifications: "How do to do" (underlying engineering tehcnical details for requirements and constraints
+  * Will have "must" keyword along with something related to development practice or optimization
+* Specifications: "How do to do" (underlying engineering technical details for requirements and constraints)
 
 # lec 3
 
